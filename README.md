@@ -23,7 +23,8 @@ DAG Shortest and Longest Path Computation using topological relaxation.
 
 2. Results Overview
 
-![img.png](img.png)
+<img width="1213" height="261" alt="img" src="https://github.com/user-attachments/assets/38ce8924-e07c-4b7a-9171-7c00c85bb3ee" />
+
 
 All algorithms executed correctly for every input graph.
 The following general trends were observed:
