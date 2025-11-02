@@ -1,0 +1,11 @@
+Graph Name,Vertices,SCC Count,DFS Visits,SCC Time (ms),Topo Pushes,Topo Pops,Topo Time (ms),Relaxations,DAGSP Time (ms)
+SmallGraph_1,8,6,8,0.0376,6,6,0.1077,10,0.0053
+SmallGraph_2,9,7,9,0.0266,7,7,0.0145,12,0.0041
+SmallGraph_3,10,7,10,0.0108,7,7,0.0291,12,0.0041
+MediumGraph_1,12,8,12,0.0196,8,8,0.0082,14,0.0035
+MediumGraph_2,15,13,15,0.0141,13,13,0.0118,24,0.0056
+MediumGraph_3,18,16,18,0.0171,16,16,0.013,30,0.0064
+LargeGraph_1,25,22,25,0.0198,22,22,0.016,42,0.0088
+LargeGraph_2,30,30,30,0.0272,30,30,0.023,58,0.0165
+LargeGraph_3,40,40,40,0.0426,40,40,0.0358,78,0.0159
+DenseGraph_40v_Dense,40,40,40,0.0487,40,40,0.0985,301,0.0521
